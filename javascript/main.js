@@ -9,6 +9,10 @@ function addValue() {
 	document.title = totalClicks + " Total Clicks";
 	var totalDisplay = document.getElementById("total-display");
 	totalDisplay.innerHTML = total;
+	audio = document.getElementById("anthem");
+	audio.play()
+	sleep(3000)
+	audio.pause()
 }
 
 function main() {

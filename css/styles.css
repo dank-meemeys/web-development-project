@@ -12,20 +12,23 @@
 	.block {
 		display: block;
 	}
-	p{
+	
+	p {
 		font-size: 20px;
 		color: yellow;
-        font-family: 'comic sans ms';
-    }
-    h1{
+        	font-family: 'comic sans ms';
+    	}
+    	
+	h1 {
 		font-size: 100px;
 		font-family: 'comic sans ms';
 		color: yellow;
 	}
+	
 	body {
-    background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fparadiseintheworld.com%2Fwp-content%2Fuploads%2F2012%2F01%2Fchina-flag.jpg&f=1");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-    }
+		background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fparadiseintheworld.com%2Fwp-content%2Fuploads%2F2012%2F01%2Fchina-flag.jpg&f=1");
+		background-size: cover;
+		background-position: top left;
+		background-attachment: fixed;
+	}
 
