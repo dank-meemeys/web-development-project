@@ -14,10 +14,14 @@
 	}
 	p{
 		font-size: 20px;
-		color: red;
+		color: yellow;
         font-family: 'comic sans ms';
     }
     h1{
 		font-size: 100px;
 		font-family: 'comic sans ms';
+		color: yellow;
+	}
+	body{
+		background-color: red;
 	}
