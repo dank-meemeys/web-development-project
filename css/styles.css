@@ -28,14 +28,4 @@
     background-position: right top;
     background-attachment: fixed;
     }
-    .myButton{
-    background:url(C:\Users\user\Desktop\Dekstop\Git Hub\web-development-project\sprites\untitled.png) no-repeat;
-    cursor:pointer;
-    border:none;
-	width:100px;
-    height:100px;
-}
 
-.myButton:active {
-     background:url(C:\Users\user\Desktop\Dekstop\Git Hub\web-development-project\sprites\untitled.png) no-repeat;
-}
