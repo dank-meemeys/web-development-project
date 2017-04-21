@@ -12,12 +12,12 @@
 	.block {
 		display: block;
 	}
-	.p{
+	p{
 		font-size: 20px;
 		color: yellow;
         font-family: 'comic sans ms';
     }
-    .h1{
+    h1{
 		font-size: 100px;
 		font-family: 'comic sans ms';
 		color: yellow;
