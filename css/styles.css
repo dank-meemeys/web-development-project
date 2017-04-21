@@ -22,6 +22,9 @@
 		font-family: 'comic sans ms';
 		color: yellow;
 	}
-	body{
-		background-color: red;
-	}
+	body {
+    background-image: url("https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV3BWEpb6avk%2Fmaxresdefault.jpg&f=1");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    }
