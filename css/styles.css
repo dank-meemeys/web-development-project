@@ -17,18 +17,18 @@
 		font-size: 20px;
 		color: yellow;
         	font-family: 'comic sans ms';
-		text-align: middle;
+		text-align: center;
     	}
     	
 	h1 {
 		font-size: 100px;
 		font-family: 'comic sans ms';
 		color: yellow;
-		text-align: middle;
+		text-align: center;
 	}
 	
 	body {
-		background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fparadiseintheworld.com%2Fwp-content%2Fuploads%2F2012%2F01%2Fchina-flag.jpg&f=1");
+		background-image: url("http://i220.photobucket.com/albums/dd36/flawna/red_blood_wallpaper_1280x1024.jpg");
 		background-size: cover;
 		background-position: top left;
 		background-attachment: fixed;
