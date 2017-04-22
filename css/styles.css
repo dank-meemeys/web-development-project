@@ -33,4 +33,10 @@
 		background-position: top left;
 		background-attachment: fixed;
 	}
+	
+    .upgrades {
+	    border-top-color: yellow;
+		border-width: 2px;
+		border-bottom-color: orange;
+	}
 
