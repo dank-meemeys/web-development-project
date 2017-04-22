@@ -2,6 +2,7 @@ var perClick = 1.0;
 var multiplier = 1.0;
 var total = 0;
 var totalClicks = 0;
+var playing = False;
 
 function addValue() {
 	total = total + perClick * multiplier;
@@ -11,9 +12,12 @@ function addValue() {
 	totalDisplay.innerHTML = total;
 	audio = document.getElementById("anthem");
 	audio.play()
-	setTimeout(pause, 30000)
+	setTimeout(pause, 3000)
 	function pause() {
-		audio.pause()
+		if (playing == True) {
+			audio.pause();
+			playing = False;
+		}
 	}
 }
 

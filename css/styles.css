@@ -30,7 +30,7 @@
 	body {
 		background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEfNkQXsMXv3A57t6zo8fvVPcXtk4T2k105kke8Uv8MPvRf4vFFw");
 		background-size: cover;
-		background-position: top left;
+		background-position: center;
 		background-attachment: fixed;
 	}
 
